@@ -1,1 +1,1 @@
-# git training
+# github training
